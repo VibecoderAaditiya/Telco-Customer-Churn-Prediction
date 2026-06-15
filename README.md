@@ -8,6 +8,13 @@
 **Semester:** 5
 
 ---
+## Internship Information
+
+Organization: Persevex
+Internship Domain: Data Science / Machine Learning
+Project Title: Predictive Customer Churn Analysis using Machine Learning
+
+---
 
 ## Project Overview
 
